@@ -13,6 +13,6 @@ I am an AI Engineer and currently doing research on Artificial General Intellige
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekChauhan05&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VivekChauhan05&icon=9&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vivekchauhan05&label=Profile%20View&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
