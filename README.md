@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am an AI Engineer and currently doing research on Artificial General Intelligence.
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivek-chauhan-6b1464222/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vivek_Chauhan06) 
 
