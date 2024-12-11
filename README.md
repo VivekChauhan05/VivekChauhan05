@@ -10,7 +10,6 @@ I am an AI Engineer and currently doing research on Artificial General Intellige
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vivekchauhan05&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vivekchauhan05&theme=vision-friendly-dark&border_radius=7)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vivekchauhan05&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekchauhan05&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
